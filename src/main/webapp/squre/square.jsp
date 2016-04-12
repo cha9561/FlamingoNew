@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<li><h6><a href="/my/mypage.jsp?id=">mypage.jsp ÀÌµ¿</a>  &nbsp;</h6></li>	
 </body>
 </html>
